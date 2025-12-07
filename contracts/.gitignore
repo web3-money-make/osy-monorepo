@@ -1,0 +1,36 @@
+# Environment variables
+.env
+
+# Foundry
+cache/
+out/
+broadcast/
+
+# Node
+node_modules/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+
+node_modules
+.env
+.claude/
+
+# Hardhat files
+/cache
+/artifacts
+
+# TypeChain files
+/typechain
+/typechain-types
+
+# solidity-coverage files
+/coverage
+/coverage.json
